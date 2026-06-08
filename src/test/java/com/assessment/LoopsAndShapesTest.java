@@ -629,6 +629,7 @@ public class LoopsAndShapesTest {
                 LoopsAndShapes.createHourglass(5)
         );
     }
+    
     // =====================================================
     // Question 21
     // =====================================================
